@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/asashidharan/git-repo/berlin_platform'
+let g:netrw_dirhist_2='/Users/asashidharan/git-repo/spider'
+let g:netrw_dirhist_3='/Users/asashidharan/git-repo'
+let g:netrw_dirhist_4='/Users/asashidharan/git-repo/spider/.git/logs'
